@@ -1,6 +1,8 @@
 using System;
 class Statvarr{
 
+// New Code //
+
 public static int i;
 public static void display()
 {
